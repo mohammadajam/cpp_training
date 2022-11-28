@@ -1,3 +1,7 @@
+/*
+this code generate a random vector that is made of zeros and ones.
+if the number of zeros is equals to the number of ones it will stop, else the code will restart and add one to the trys variable.
+*/
 #include <iostream>
 #include <vector>
 
